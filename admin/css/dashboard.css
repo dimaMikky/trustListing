@@ -1,0 +1,61 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+body {
+  background-color: #e9e9e9
+}
+/* css rule to make a scrolable first modal window */
+#myModal { 
+  overflow-y:scroll;
+}
+
+#add {
+  margin-right: 10px;
+}
+/*
+ * Typography
+ */
+ .bd-brand-item {
+  text-align: center;
+  color: #d6dbd4;
+  padding-right: 30px
+}
+
+h1 {
+  margin-bottom: 20px;
+  padding-bottom: 9px;
+  border-bottom: 1px solid #eee;
+}
+
+.colortext {
+  color: rgb(253, 0, 0);
+}
+
+/*
+ * table
+ */
+ .t-panel{
+   padding-top: 13px;
+ }
+.t-size {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+
+/*
+ * Dashboard
+ */
+
+ /* Placeholders */
+.placeholders {
+  padding-bottom: 3rem;
+}
+
+.placeholder img {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}

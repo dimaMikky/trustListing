@@ -1,0 +1,62 @@
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+	border-bottom: 1px solid #cdd1d6c5;
+}
+
+body {
+	background: #cdd1d6c5;
+}
+
+td {
+	border-left: 1px solid #cdd1d6c5;
+	border-right: 1px solid #cdd1d6c5;
+}
+
+/* review margins (left, right, top, bootom)*/
+
+/*left-side*/
+.ls{
+	margin-bottom: -10px;
+    margin-top: -30px;
+	margin-left: 10px;
+	margin-right: -20px;
+}
+
+/*right-side*/
+.rs{
+	margin-bottom: 10px;
+	margin-top: -30px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+/* blocks in right side */
+.crd{
+	margin-bottom: -20px;
+}
+/* ------END----*/
+
+.middle {
+	border-top: 1px solid #cdd1d6c5;
+}
+
+.col{
+border-style:  solid
+}
+
+.footer {
+	background: white;
+}
+
+.inf-top {
+	margin-top: 85px;
+	margin-bottom: 15px;
+}
+
+.inf-bottom {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
